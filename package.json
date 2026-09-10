@@ -1,0 +1,12 @@
+{
+  "name": "uc-rewards-production",
+  "version": "1.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "helmet": "^8.1.0"
+  }
+}
